@@ -7,13 +7,13 @@
 ---
 
 ## About Me
-I’m interested in the interrelation of biology and technology. My journey into bioinformatics began with learning Python,immunology,genetics and molecular biology with a focus on how computational tools such as:(python,BLAST,R,Github,Biopython,Biological sequence analysis) can help us understand immune responses,genetic variations and the central dogma.
+I’m interested in the interrelation of biology and technology. My journey into bioinformatics began with learning Python,immunology,genetics and molecular biology with a focus on how computational tools such as:(python,BLAST,R,Github,Biopython,Biological sequence analysis) which helps understand immune responses,genetic variations and the central dogma.
 
 ---
 
 ##  Projects
 - **DNA Sequence Analysis** – Python and biopython scripts for working with nucleotide sequences  
-- **Immunology Learning Resources** – Notes, summaries, and key insights from my Coursera immunology course    
+- **Immunology Understanding** – key insights from my Coursera immunology course    
 - **Bioinformatics Practice Hub** – Coding exercises and experiments to strengthen my skills  
 
 ---
