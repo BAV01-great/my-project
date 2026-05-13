@@ -2,7 +2,7 @@
 Temperature = ''
 #Whats to loop to be able to ask the user various temperature until they quit
 while True:
-# Ask the user to input their temperature to know the condition    
+# Ask the user to input the temperature to know its condition    
     value = input('What is your temperature? (if unknown or done type quit) ')
     if value == 'quit':
         print('Program ends')
@@ -23,5 +23,3 @@ while True:
     else:
         print(float(Temperature))
         print('Dangerous')
-
-num+=1
